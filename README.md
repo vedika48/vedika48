@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedika Mali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+%26+Mobile+Developer;Building+AI-Powered+Applications;Exploring+AI+%26+Neural+Networks;500%2B+DSA+Problems+Solved;Hackathon+Finalist+%26+Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+%26+Mobile+Developer;Exploring+AI+%26+Neural+Networks;Hackathon+Finalist+%26+Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
